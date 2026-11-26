@@ -1,0 +1,9 @@
+out/
+*.idsig
+*.keystore
+*.jks
+*.log
+testapp/
+bench_*.txt
+.DS_Store
+app/out/
